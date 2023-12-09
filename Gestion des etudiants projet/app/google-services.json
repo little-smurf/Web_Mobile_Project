@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829913820916",
+    "project_id": "gestion-des-etudiants-5258f",
+    "storage_bucket": "gestion-des-etudiants-5258f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829913820916:android:1bec1e22b736d0411ab8a1",
+        "android_client_info": {
+          "package_name": "com.essect.gestion_des_etudiants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohej57cujpBipCob70_4XpG0jOxyABVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
